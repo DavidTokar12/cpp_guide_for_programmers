@@ -1,1 +1,0 @@
-# cpp_guide_for_programmers
